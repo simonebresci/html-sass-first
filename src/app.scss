@@ -1,0 +1,19 @@
+
+#super-container{
+  background-color: green;
+  width: 400px;
+  height: 400px;
+
+
+  .content{
+    color:white;
+
+    &-title{
+      text-decoration: underline;
+    }
+
+  }
+
+
+
+}

@@ -1,0 +1,11 @@
+#super-container {
+  background-color: green;
+  width: 400px;
+  height: 400px;
+}
+#super-container .content {
+  color: white;
+}
+#super-container .content-title {
+  text-decoration: underline;
+}
