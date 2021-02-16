@@ -1,12 +1,18 @@
 
+$hColor: rgb(255,0,0);
+
+h1,h2,h3 {
+  color: $hColor;
+}
+
 #super-container{
-  background-color: green;
+
   width: 400px;
   height: 400px;
 
 
   .content{
-    color:white;
+    color:black;
 
     &-title{
       text-decoration: underline;
